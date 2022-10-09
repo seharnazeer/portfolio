@@ -1,4 +1,4 @@
-import React, { useState, useEffect,Suspense,lazy } from "react";
+import React, {Suspense,lazy } from "react";
 import Preloader from "../src/components/Pre";
 import {
   BrowserRouter as Router,
