@@ -80,8 +80,8 @@ function Projects() {
               isBlog={false}
             title="Simple Template"
               description="Simple ui one page website using react.js and mui.Attractive ui with MUI"
-              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              demoLink="https://automated-cars.surge.sh" 
+              ghLink="https://github.com/seharnazeer/landing-page-with-tailwindcss"
+              demoLink="https://car-retail-94c41.web.app/" 
             />
           </Col> 
 
